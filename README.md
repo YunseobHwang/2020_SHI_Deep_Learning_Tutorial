@@ -17,4 +17,4 @@
 
 ### Transfer Learning using RH Regressor
 
-![TL](./image_files/transfer_learning_effect.PNG)
+![TL](./image_files/temp_regression_transfer_learning_effect.PNG)
