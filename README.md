@@ -11,7 +11,7 @@
 
 ### Input Scailing and Feature Normalization (Batch Normalization)
 
-![ANN](./image_files/ANN_accr_normalization_effect.PNG)
+![ANN](./image_files/ANN_accr_normalization_effect.png)
 
 ## Temperature Regression
 
