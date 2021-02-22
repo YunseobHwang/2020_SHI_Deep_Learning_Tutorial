@@ -5,16 +5,16 @@
 
 ### ML regressors using Sklearn 
 
-![RHR](./images/RH_regression_plots.gif)
+![RHR](./image_files/RH_regression_plots.gif)
 
 ## Steel Plate Defect Identification
 
 ### Input Scailing and Feature Normalization (Batch Normalization)
 
-![ANN](./images/ANN_accr_normalization_effect.png)
+![ANN](./image_files/ANN_accr_normalization_effect.PNG)
 
 ## Temperature Regression
 
 ### Transfer Learning using RH Regressor
 
-![TL](./images/transfer_learning_effect.PNG)
+![TL](./image_files/transfer_learning_effect.PNG)
